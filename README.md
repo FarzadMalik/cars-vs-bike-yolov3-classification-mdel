@@ -61,6 +61,4 @@ After training, you can use the trained model for inference on new images. Provi
 
 ## License
 
-Specify the license for your project. For example:
-
 This project is licensed under the [MIT License](LICENSE).
